@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas Andrade! 👋
 
-I'm [*frontend*] and computer science student.
+I'm [*frontend*] and computer engineer student.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasandrades)](https://github.com/lucasandrades)
 
